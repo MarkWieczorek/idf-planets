@@ -18,8 +18,8 @@ The European degree system consistes of a 3 year *Licence*, a 2 year *Master*, a
 * [Master Planetary Science and Space Exploration](https://www.master-planeto.universite-paris-saclay.fr/?lang=en) : Université Paris-Saclay, Université de Versailles Saint-Quentin-en-Yvelines, Sorbonne Université, Observatoire de Paris, Université Paris Sciences & Lettres, Muséum National d'Histoire Naturelle, Institut de Physique du Globe de Paris.
 * [Fundamentals of Remote Sensing](http://teledetection.ipgp.fr/mpt/) : Université Paris Cité, Ecole Normale Supérieure; Sorbonne Université, Université Paris-Saclay, ParisTech.
 * Master 2 [Astronomie, Astrophysique & Ingénierie Spatiale (AAIS)](http://www2.iap.fr/master2/M2AA/Presentation.html) : Université Paris Sciences et Lettres, Observatoire de Paris, École Normale Supérieure, Sorbonne Université, Université Paris Cité, Université Paris-Saclay.
-* Master 2 [Outils et Systèmes de l’Astronomie et de l’Espace](http://ufe.obspm.fr/Master/Master-2-Outils-et-Systemes-de-l-Astronomie-et-de-l-Espace/) : Observatoire de Paris, Université Paris Sciences et Lettres
-* Master 2 [Enjeux du Spatial et nouvelles Applications - Newspace](https://www.universite-paris-saclay.fr/formation/master/sciences-de-la-terre-et-des-planetes-environnement/m2-enjeux-du-spatial-et-nouvelles-applications-newspace#presentation) : Université Paris-Saclay
+* Master 2 [Outils et Systèmes de l’Astronomie et de l’Espace](http://ufe.obspm.fr/Master/Master-2-Outils-et-Systemes-de-l-Astronomie-et-de-l-Espace/) : Observatoire de Paris, Université Paris Sciences et Lettres.
+* Master 2 [Enjeux du Spatial et nouvelles Applications - Newspace](https://www.universite-paris-saclay.fr/formation/master/sciences-de-la-terre-et-des-planetes-environnement/m2-enjeux-du-spatial-et-nouvelles-applications-newspace#presentation) : Université Paris-Saclay.
 
 ## Ph.D. programs
 * [Astronomy & Astrophysics in Ile-de-France](https://ecole-doctorale.obspm.fr) : Université Paris Sciences & Lettres, Université Paris-Saclay, Université Paris Cité, Sorbonne Université.
