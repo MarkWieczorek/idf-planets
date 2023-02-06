@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News
+title: Newsletters
 description: Newsletters, announcements, and seminar listings
 image: assets/images/pluto.jpg
 image-show: false

@@ -2,11 +2,11 @@
 layout: post
 title: Forums
 description: Chat online
-image: assets/images/io.jpg
+image: assets/images/saturn.jpg
 image-show: false
 nav-menu: true
 show-tile: true
-order: 7
+order: 8
 ---
 
 If you would like to chat with members of the planetary science community in Ile-de-France, please consider joining one of the following online forums. There is no single ideal platform to use, so we have chosen two that are open source and that allow communication with users on different servers and groups. If you would like to use a different platform, please create the forum and we will add it to the list!
