@@ -2,11 +2,11 @@
 layout: post
 title: Calendar
 description: Online calendar of seminars and events
-image: assets/images/phobos.jpg
+image: assets/images/jupiter.jpg
 image-show: false
 nav-menu: true
 show-tile: true
-order: 5
+order: 6
 
 ---
 
