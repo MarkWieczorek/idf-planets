@@ -155,8 +155,8 @@ Guillaume Avice, James Badro, Razvan Caracas, Sébastien Charnoz, Marc Chaussido
 </div>
 
 <div class="research-group">
-<a href="#hide-gfd" class="hide-more" id="hide-gfd" style="border-bottom: none;">&#10133; Geological fluid dynamics</a>
-<a href="#show-gfd" class="show-more" id="show-gfd">&#10134; Geological fluid dynamics</a>
+<a href="#hide-gfd" class="hide-more" id="hide-gfd" style="border-bottom: none;">&#10133; Geological Fluid Dynamics</a>
+<a href="#show-gfd" class="show-more" id="show-gfd">&#10134; Geological Fluid Dynamics</a>
 <div class="more">
 <div class="box more-box">
 <p><a href="https://www.ipgp.fr/en/research/teams/dfg/">Group website</a></p>
@@ -297,6 +297,32 @@ Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
 
 <h3 class="mb-0"><a href="https://lesia.obspm.fr/">Laboratoire d'Etudes Spatiales et d'Instrumentation en Astrophysique (LESIA)</a></h3>
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+
+<div class="research-group">
+<a href="#hide-lesia-planetologie" class="hide-more" id="hide-lesia-planetologie" style="border-bottom: none;">&#10133; Planetary Science Pole (Pôle Planétologie)</a>
+<a href="#show-lesia-planetologie" class="show-more" id="show-lesia-planetologie">&#10134; Planetary Science Pole (Pôle Planétologie)</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="https://lesia.obspm.fr/Pole-planetologie.html">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Planetary surfaces, planetary atmospheres, asteroids, comets, trans-neptunian objects, exoplanets, space instrumentation, spectroscopy, photometry, polarimetry, radiometry, occultations.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Antonella Barucci, Tanguy Bertrand, Bruno Bézard, Nicolas Biver, Dominique Bockelée-Morvan, Benjamin Charnay, Athéna Coustenis, Daniela Despan, Alain Doressoundiram, Stéphane Erard, Sonia, Fornasier, Thierry Fouchet, Quentin Kral, Emmanuel Lellouch, Cédric Leyrat, Frédéric Merlin, Raphael Moreno, Françoise Roques, Bruno Sicardy, Damya Souami, Philippe Thébault, Sandrine Vinatier, Thomas Widemann.
+</p>
+
+<p>
+<b>Location</b><br />
+Bâtiments 16-18, Observatoire de Paris, 5 Place Jules Janssen, 92190 Meudon<br />
+<a href="https://www.openstreetmap.org/?mlat=48.80456&mlon=2.22685#map=19/48.80456/2.22685&layers=N" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/q34JNWvuynRLTwwR7" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+<p></p>
 
 <h3 class="mb-0"><a href="https://www.lmd.ipsl.fr/en/home-2/">Laboratoire de Météorologie Dynamique (LMD)</a></h3>
 <p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>, <a href="https://www.polytechnique.edu/">Institut Polytechnique de Paris</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
