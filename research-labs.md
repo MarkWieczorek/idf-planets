@@ -234,8 +234,8 @@ Nobuaki Fuji, Eléonore Stutzmann.
 Université de Versailles Saint-Quentin-en-Yvelines</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
-<a href="#hide-latmos-helios" class="hide-more" id="hide-latmos-helios" style="border-bottom: none;">&#10133; HELIOS: Exosphere and Heliosphere</a>
-<a href="#show-latmos-helios" class="show-more" id="show-latmos-helios">&#10134; HELIOS: Exosphere and Heliosphere</a>
+<a href="#hide-latmos-helios" class="hide-more" id="hide-latmos-helios" style="border-bottom: none;">&#10133; Exosphere and Heliosphere</a>
+<a href="#show-latmos-helios" class="show-more" id="show-latmos-helios">&#10134; Exosphere and Heliosphere</a>
 
 <div class="more">
 <div class="box more-box">
@@ -264,8 +264,8 @@ Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
 </div>
 
 <div class="research-group">
-<a href="#hide-latmos-planeto" class="hide-more" id="hide-latmos-planeto" style="border-bottom: none;">&#10133; PLANETO: Planetology and Solar System</a>
-<a href="#show-latmos-planeto" class="show-more" id="show-latmos-planeto">&#10134; PLANETO: Planetology and Solar System</a>
+<a href="#hide-latmos-planeto" class="hide-more" id="hide-latmos-planeto" style="border-bottom: none;">&#10133; Planetology and Solar System</a>
+<a href="#show-latmos-planeto" class="show-more" id="show-latmos-planeto">&#10134; Planetology and Solar System</a>
 
 <div class="more">
 <div class="box more-box">
@@ -299,8 +299,8 @@ Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
-<a href="#hide-lesia-planetologie" class="hide-more" id="hide-lesia-planetologie" style="border-bottom: none;">&#10133; Planetary Science Pole (Pôle Planétologie)</a>
-<a href="#show-lesia-planetologie" class="show-more" id="show-lesia-planetologie">&#10134; Planetary Science Pole (Pôle Planétologie)</a>
+<a href="#hide-lesia-planetologie" class="hide-more" id="hide-lesia-planetologie" style="border-bottom: none;">&#10133; Planetary Science Pole</a>
+<a href="#show-lesia-planetologie" class="show-more" id="show-lesia-planetologie">&#10134; Planetary Science Pole</a>
 
 <div class="more">
 <div class="box more-box">
@@ -311,7 +311,7 @@ Planetary surfaces, planetary atmospheres, asteroids, comets, trans-neptunian ob
 </p>
 
 <p><b>Planetary science research staff</b><br />
-Antonella Barucci, Tanguy Bertrand, Bruno Bézard, Nicolas Biver, Dominique Bockelée-Morvan, Benjamin Charnay, Athéna Coustenis, Daniela Despan, Alain Doressoundiram, Stéphane Erard, Sonia, Fornasier, Thierry Fouchet, Quentin Kral, Emmanuel Lellouch, Cédric Leyrat, Frédéric Merlin, Raphael Moreno, Françoise Roques, Bruno Sicardy, Damya Souami, Philippe Thébault, Sandrine Vinatier, Thomas Widemann.
+Antonella Barucci, Tanguy Bertrand, Bruno Bézard, Nicolas Biver, Dominique Bockelée-Morvan, Benjamin Charnay, Athéna Coustenis, Daniela Despan, Alain Doressoundiram, Stéphane Erard, Sonia Fornasier, Thierry Fouchet, Quentin Kral, Emmanuel Lellouch, Cédric Leyrat, Frédéric Merlin, Raphael Moreno, Françoise Roques, Bruno Sicardy, Damya Souami, Philippe Thébault, Sandrine Vinatier, Thomas Widemann.
 </p>
 
 <p>
