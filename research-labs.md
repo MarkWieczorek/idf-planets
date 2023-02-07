@@ -329,3 +329,29 @@ Bâtiments 16-18, Observatoire de Paris, 5 Place Jules Janssen, 92190 Meudon<br 
 
 <h3 class="mb-0"><a href="http://www.lisa.u-pec.fr/en">Laboratoire Interuniversitaire des Systèmes Atmosphériques (LISA)</a></h3>
 <p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.u-pec.fr/">Université Paris-Est Créteil</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+
+<div class="research-group">
+<a href="#hide-lisa" class="hide-more" id="hide-lisa" style="border-bottom: none;">&#10133; Astrobiology</a>
+<a href="#show-lisa" class="show-more" id="show-lisa">&#10134; Astrobiology</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://www.lisa.u-pec.fr/en/astrobiology-and-astrochemistry">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Astrobiology, planetology, exoplanets, Mars, small bodies, atmospheres, organic chemistry, analytical chemistry, spectroscopy, space instrumentation.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Clara Azémard, Yves Bénilan, Hervé Cottin, Nicolas Fray, Marie-Claire Gazeau, Antoine Jolly, François Raulin (emeritus), Fabien Stalport, Olivia Venot.
+</p>
+
+<p>
+<b>Location</b><br />
+Maison des sciences de l’environnement, 5 rue Pasteur Vallery Radot, 94000 Créteil<br />
+<a href="https://www.openstreetmap.org/?mlat=48.78903&mlon=2.44228#map=19/48.78903/2.44228&layers=N" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/b3EGENzuEwBZEzi19" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+<p></p>
