@@ -233,6 +233,68 @@ Nobuaki Fuji, Eléonore Stutzmann.
 <p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="">
 Université de Versailles Saint-Quentin-en-Yvelines</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
+<div class="research-group">
+<a href="#hide-latmos-helios" class="hide-more" id="hide-latmos-helios" style="border-bottom: none;">&#10133; HELIOS: Exosphere and Heliosphere</a>
+<a href="#show-latmos-helios" class="show-more" id="show-latmos-helios">&#10134; HELIOS: Exosphere and Heliosphere</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://www.latmos.ipsl.fr/index.php/en/activites-de-recherche/helios">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Ionospheres, magnetospheres, exospheres, interactions with particles and fields, remote sensing, instrumentation and techniques, plasmas and magnetohydrodynamic instabilities.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Jean-Yves Chaufray, Patrick Galopeau, Dimitra Koutroumpa, François Leblanc, Ronan Modolo, Eric Quémerais.</p>
+
+<p>
+<b>Locations</b><br />
+<u>Site Guyancourt</u><br />
+OVSQ, 11 boulevard D’Alembert, 78280 Guyancourt<br />
+<a href="https://www.openstreetmap.org/?mlat=48.77799&mlon=2.04843#map=19/48.77799/2.04843" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/LT6vEEFyvH4u56JfA" style="font-size: 80%;">[Google maps]</a></p>
+
+<p>
+<u>Site Paris-Jussieu</u><br />
+Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/txkbykPcZNLT3cyp8" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+
+<div class="research-group">
+<a href="#hide-latmos-planeto" class="hide-more" id="hide-latmos-planeto" style="border-bottom: none;">&#10133; PLANETO: Planetology and Solar System</a>
+<a href="#show-latmos-planeto" class="show-more" id="show-latmos-planeto">&#10134; PLANETO: Planetology and Solar System</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://www.latmos.ipsl.fr/index.php/en/activites-de-recherche/planeto">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Planetary atmospheres, origin of life, impact cratering, comets, remote sensing, surface materials and properties, instrumentation and techniques.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Nathalie Carrasco, Valérie Ciarletti, Caroline Freissinet, Thomas Gautier, Franck Lefèvre, Alice Le Gall, Anni Määttänen, Emmanuel Marcq, Maeva Millan, Franck Montmessin, Cyril Szopa.
+</p>
+
+<p>
+<b>Locations</b><br />
+<u>Site Guyancourt</u><br />
+OVSQ, 11 boulevard D’Alembert, 78280 Guyancourt<br />
+<a href="https://www.openstreetmap.org/?mlat=48.77799&mlon=2.04843#map=19/48.77799/2.04843" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/LT6vEEFyvH4u56JfA" style="font-size: 80%;">[Google maps]</a></p>
+
+<p>
+<u>Site Paris-Jussieu</u><br />
+Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/txkbykPcZNLT3cyp8" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+<p></p>
+
 <h3 class="mb-0"><a href="https://lesia.obspm.fr/">Laboratoire d'Etudes Spatiales et d'Instrumentation en Astrophysique (LESIA)</a></h3>
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
