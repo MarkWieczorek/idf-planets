@@ -166,7 +166,7 @@ Planetary dynamos, core formation, metal-silicate mixing, planetary dunes.
 </p>
 
 <p><b>Planetary science research staff</b><br />
-Julien Aubert, Maylis Landeau, Clément Narteau.
+Julien Aubert, Edouard Kaminski, Maylis Landeau, Clément Narteau.
 </p>
 
 <p><b>Location</b><br />
