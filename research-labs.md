@@ -331,15 +331,15 @@ Bâtiments 16-18, Observatoire de Paris, 5 Place Jules Janssen, 92190 Meudon<br 
 <p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.u-pec.fr/">Université Paris-Est Créteil</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
-<a href="#hide-lisa" class="hide-more" id="hide-lisa" style="border-bottom: none;">&#10133; Astrobiology</a>
-<a href="#show-lisa" class="show-more" id="show-lisa">&#10134; Astrobiology</a>
+<a href="#hide-lisa" class="hide-more" id="hide-lisa" style="border-bottom: none;">&#10133; Astrobiology and Astrochemistry</a>
+<a href="#show-lisa" class="show-more" id="show-lisa">&#10134; Astrobiology and Astrochemistry</a>
 
 <div class="more">
 <div class="box more-box">
 <p><a href="http://www.lisa.u-pec.fr/en/astrobiology-and-astrochemistry">Group website</a></p>
 
 <p><b>Research themes</b><br />
-Astrobiology, planetology, exoplanets, Mars, small bodies, atmospheres, organic chemistry, analytical chemistry, spectroscopy, space instrumentation.
+Astrobiology, astrochemistry, planetology, exoplanets, Mars, small bodies, atmospheres, organic chemistry, analytical chemistry, spectroscopy, space instrumentation.
 </p>
 
 <p><b>Planetary science research staff</b><br />

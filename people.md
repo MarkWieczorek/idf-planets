@@ -15,7 +15,7 @@ order: 3
 | --------- | ---------- | ---------- | ------------------ | ------- |
 | Lucas     | Antoine    | IPGP       | I study avalanches, dunes and rivers across the Solar System. | <a href="http://dralucas.geophysx.edu.eu.org"><i class="fa fa-external-link"></i></a> |
 | Rodriguez  | Sebastien | IPGP | Planetary atmospheres and surfaces, climatology, landscape formation, infrared and microwave remote sensing. | |
-| Schmidt | Frédéric | GEOPS | Mars, icy moons, Europa, ices and volatiles, geomorphology, remote sensing, hyperspectral imaging, AI | <a href="http://planeto.geol.u-psud.fr/spip.php?article83"><i class="fa fa-external-link"></i></a> |
+| Schmidt | Frédéric | GEOPS | Mars, icy moons, Europa, ices and volatiles, geomorphology, remote sensing, hyperspectral imaging, AI. | <a href="http://planeto.geol.u-psud.fr/spip.php?article83"><i class="fa fa-external-link"></i></a> |
 | Wieczorek  | Mark | IPGP | Geophysics: interior structure of the planets and moons, gravity, topography, magnetic fields, impact cratering. | <a href="https://www.ipgp.fr/~mark.wieczorek"><i class="fa fa-external-link"></i></a> |
 
 ### Postdocs
