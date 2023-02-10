@@ -327,6 +327,33 @@ Bâtiments 16-18, Observatoire de Paris, 5 Place Jules Janssen, 92190 Meudon<br 
 <h3 class="mb-0"><a href="https://www.lmd.ipsl.fr/en/home-2/">Laboratoire de Météorologie Dynamique (LMD)</a></h3>
 <p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>, <a href="https://www.polytechnique.edu/">Institut Polytechnique de Paris</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
+<div class="research-group">
+<a href="#hide-lmd" class="hide-more" id="hide-lmd" style="border-bottom: none;">&#10133; Planetary Atmospheres</a>
+<a href="#show-lmd" class="show-more" id="show-lmd">&#10134; Planetary Atmospheres</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://www-planets.lmd.jussieu.fr/">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Planetary climates, planetary atmospheres, numerical climate modeling, analysis of remote sensing and in-situ observations, Mars, Venus, giant planets, Titan, Pluto, extrasolar planets.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+François Forget, Sandrine Guerlet, Sebastien Lebonnois, Ehouarn Millour, Aymeric Spiga, André Szantai, Martin Turbet.
+</p>
+
+<p>
+<b>Location</b><br />
+Sorbonne Université, Tour 45, 3eme etage, 4 place Jussieu, 75005 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.84718&mlon=2.35600#map=19/48.84718/2.35600" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/53stSwyskdouyRhu8" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+<p></p>
+
+
 <h3 class="mb-0"><a href="http://www.lisa.u-pec.fr/en">Laboratoire Interuniversitaire des Systèmes Atmosphériques (LISA)</a></h3>
 <p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.u-pec.fr/">Université Paris-Est Créteil</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
