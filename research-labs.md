@@ -346,7 +346,7 @@ François Forget, Sandrine Guerlet, Sebastien Lebonnois, Ehouarn Millour, Aymeri
 <p>
 <b>Location</b><br />
 Sorbonne Université, Tour 45, 3eme etage, 4 place Jussieu, 75005 Paris<br />
-<a href="https://www.openstreetmap.org/?mlat=48.84718&mlon=2.35600#map=19/48.84718/2.35600" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/53stSwyskdouyRhu8" style="font-size: 80%;">[Google maps]</a></p>
+<a href="https://www.openstreetmap.org/?mlat=48.84646&mlon=2.35609#map=19/48.84646/2.35609" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://www.google.fr/maps/search/48.846544,+2.355982" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
 </div>
