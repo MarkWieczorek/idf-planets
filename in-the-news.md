@@ -11,6 +11,25 @@ order: 5
 ---
 
 <section class="spotlights">
+
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/2023-CX1.jpg %}" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Meteorite recovery from the February 13 meteor</h3>
+				</header>
+				<p><b>February 16, 2023</b><br />
+				A meteorite was recovered from the asteroid 2023-CX1 that fell in Normandy France the morning of February 13, 2023. This was the third time in history where parts of a previously known asteroid were recovered on the ground. Researchers were able to pinpoint where to search based on videos from amateur astronomers, security cameras, and images from the <a href="https://www.fripon.org">FRIPON camera network</a> that was designed exactly for this purpose. This meteor occurred nearly 10 years to the day after the more destructive Chelyabinsk meteor in Russia.</p>
+				<ul class="actions">
+				<li><a href="http://impmc.sorbonne-universite.fr/fr/revue-de-presse/revue-de-presse-2023/une-meteorite-normande-issue-de-2023cx1-retrouvee-vigie-ciel-fripon-15-fevrier-2023.html" class="button">Learn more</a></li>
+				</ul>
+		  </div>
+	  </div>
+	</section>
+
 	<section>
 		<a class="image">
 			<img src="{% link assets/images/loizeau2023.jpg %}" alt="" />
@@ -18,9 +37,10 @@ order: 5
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hayabusa 2</h3>
+					<h3>Hayabusa 2 sample analysis</h3>
 				</header>
-				<p><b>January 23, 2023.</b> A new study of samples brought back from the Ryugu asteroid by the JAXA mission Hayabusa 2 helped to characterize and map different types of carbonate minerals within the samples. A near-infrared hyperspectral microscope developed by IAS has been analyzing the entire collection of samples. Hundreds of carbonate-rich zones were detected, including small carbonate-rich grains and carbonate-rich inclusions within larger grains, that formed within the first millions of years of evolution of our Solar System.</p>
+				<p><b>January 23, 2023</b><br />
+				A new study of samples brought back from the Ryugu asteroid by the JAXA mission Hayabusa 2 helped to characterize and map different types of carbonate minerals within the samples. A near-infrared hyperspectral microscope developed by IAS has been analyzing the entire collection of samples. Hundreds of carbonate-rich zones were detected, including small carbonate-rich grains and carbonate-rich inclusions within larger grains, that formed within the first millions of years of evolution of our Solar System.</p>
 				<ul class="actions">
 					<li><a href="https://www.ias.u-psud.fr/en/content/analyses-asteroid-ryugu-samples-micromega-shade-light-early-evolution-solar-system" class="button">Learn more</a></li>
 				</ul>
