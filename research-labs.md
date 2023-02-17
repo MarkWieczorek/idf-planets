@@ -101,8 +101,8 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
-<a href="#hide-impmc-mp3" class="hide-more" id="hide-impmc-mp3" style="border-bottom: none;">&#10133; Mineralogy, Petrology and Planetary Physics (MP3)</a>
-<a href="#show-impmc-mp3" class="show-more" id="show-impmc-mp3">&#10134; Mineralogy, Petrology and Planetary Physics (MP3)</a>
+<a href="#hide-impmc-mp3" class="hide-more" id="hide-impmc-mp3" style="border-bottom: none;">&#10133; Mineralogy, Petrology and Planetary Physics</a>
+<a href="#show-impmc-mp3" class="show-more" id="show-impmc-mp3">&#10134; Mineralogy, Petrology and Planetary Physics</a>
 
 <div class="more">
 <div class="box more-box">
