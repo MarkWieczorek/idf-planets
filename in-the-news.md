@@ -37,7 +37,7 @@ order: 5
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hayabusa 2 sample analysis</h3>
+					<h3>Analyses of Asteroid Ryugu samples shed light on the early evolution of the Solar System</h3>
 				</header>
 				<p><b>January 23, 2023</b><br />
 				A new study of samples brought back from the Ryugu asteroid by the JAXA mission Hayabusa 2 helped to characterize and map different types of carbonate minerals within the samples. A near-infrared hyperspectral microscope developed by IAS has been analyzing the entire collection of samples. Hundreds of carbonate-rich zones were detected, including small carbonate-rich grains and carbonate-rich inclusions within larger grains, that formed within the first millions of years of evolution of our Solar System.</p>
