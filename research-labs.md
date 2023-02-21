@@ -98,7 +98,7 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <h3 class="mb-0"><a href="http://impmc.sorbonne-universite.fr/en/index.html">Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC)</a></h3>
-<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum national d'Histoire naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-impmc-mp3" class="hide-more" id="hide-impmc-mp3" style="border-bottom: none;">&#10133; Mineralogy, Petrology and Planetary Physics</a>
@@ -121,6 +121,31 @@ Daniele Antonangeli, Silvia Boccato, Eglantine Boulard, Hélène Bureau, Frederi
 4 place Jussieu, 75005, Paris<br />
 Tower 23, 4th floor, Corridor 22-23<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/hnx3Mw1XmoAxtz9x5" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+
+<div class="research-group">
+<a href="#hide-impmc-rocks" class="hide-more" id="hide-impmc-rocks" style="border-bottom: none;">&#10133; Research On Carbon-rich Key Samples</a>
+<a href="#show-impmc-rocks" class="show-more" id="show-impmc-rocks">&#10134; Research On Carbon-rich Key Samples</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://impmc.sorbonne-universite.fr/en/research_teams/research-on-carbon-rich-key-samples-rocks.html">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Mars exploration, Martian meteorites, fossilization under Martian conditions, origin and history of carbonaceous chondrites, laboratory simulation of asteroidal conditions, origin and evolution of extraterrestrial organic matter, traces of life in old terrestrial rocks.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Sylvain Bernard, Olivier Beyssac, Sylvain Pont, Laurent Remusat, Pierre Sans-Jofre, Violaine Sautter, Brigitte Zanda.
+</p>
+
+<p>
+<b>Location</b><br />
+61 rue Buffon, 75005 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.84133&mlon=2.35773#map=18/48.84133/2.35773" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/JciQUyugJnQXHMEr9" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
 </div>
