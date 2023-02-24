@@ -17,5 +17,7 @@ If you would like to chat with members of the planetary science community in Ile
 2. Join the `IDF-Planets` space in a web browser using this [link](https://matrix.to/#/#IDF-Planets:matrix.org).
 3.  Join the channels in this space that interest you by clicking on the channel name and "join".
 
+If you encounter any problems, just send a message to `@idf-planets-admin:matrix.org`.
+
 ### Keybase
 [Keybase](https://keybase.io) is an end-to-end encrypted messaging and file sharing application that is similar to Slack. To join this forum, sign up for an account on their web site, download the desktop client, and join the team "idf_planets".
