@@ -101,6 +101,32 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum national d'Histoire naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
+<a href="#hide-impmc-cosmo" class="hide-more" id="hide-impmc-cosmo" style="border-bottom: none;">&#10133; Cosmochemistry</a>
+<a href="#show-impmc-cosmo" class="show-more" id="show-impmc-cosmo">&#10134; Cosmochemistry</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="http://impmc.sorbonne-universite.fr/en/research_teams/cosmochemistry.html">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Solar System formation, protoplanetary disks, meteorites, chondrules, differentiation.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Jérôme Aléon, Jean Duprat, Matthieu Gounelle, Emmanuel Jacquet, Smaïl Mostefaoui, François Robert, Mathieu Roskosz, Maximilien Verdier-Paoletti.
+</p>
+
+<p>
+<b>Location</b><br />
+61 rue Buffon, 75005 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.84133&mlon=2.35773#map=18/48.84133/2.35773" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/JciQUyugJnQXHMEr9" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+
+
+<div class="research-group">
 <a href="#hide-impmc-mp3" class="hide-more" id="hide-impmc-mp3" style="border-bottom: none;">&#10133; Mineralogy, Petrology and Planetary Physics</a>
 <a href="#show-impmc-mp3" class="show-more" id="show-impmc-mp3">&#10134; Mineralogy, Petrology and Planetary Physics</a>
 
