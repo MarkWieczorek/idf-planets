@@ -97,6 +97,33 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <h3 class="mb-0"><a href="https://www.imcce.fr/">Institut de Mécanique Céleste et de Calcul des Ephémérides (IMCCE)</a></h3>
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
+<div class="research-group">
+<a href="#hide-imcce-pegase" class="hide-more" id="hide-imcce-pegase" style="border-bottom: none;">&#10133; Planetology environments from ground-based astrometry and space exploration</a>
+<a href="#show-imcce-pegase" class="show-more" id="show-imcce-pegase">&#10134; Planetology environments from ground-based astrometry and space exploration</a>
+
+<div class="more">
+<div class="box more-box">
+<p><a href="https://www.imcce.fr/recherche/equipes/pegase/">Group website</a></p>
+
+<p><b>Research themes</b><br />
+Dynamical planetology, planet and satellite formation, tides, co-evolution of moons and planet spin axes, asteroids, the Yarkovsky effect, planetary rings, natural satellites observations, comets and trans-Neptunian objects, meteoroids and meteors, history of astronomy.
+</p>
+
+<p><b>Planetary science research staff</b><br />
+Jean-Eudes Arlot, Kevin Baillié, Josselin Desmars, Marc Fouchard, Daniel Hestroffer, Valéry Lainey, Stéfan Renner, Vincent Robert, Melaine Saillenfest, William Thuillot, Jérémie Vaubaillon, Alain Vienne.
+</p>
+
+<p>
+<b>Location</b><br />
+IMCCE, Observatoire de Paris, 77 avenue Denfert-Rochereau, 75014 Paris<br />
+<a href="https://www.openstreetmap.org/?mlat=48.83592&mlon=2.33420#map=19/48.83592/2.33420" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/y2h3H6bZP6V9ad5CA" style="font-size: 80%;">[Google maps]</a></p>
+
+</div>
+</div>
+</div>
+<p></p>
+
+
 <h3 class="mb-0"><a href="http://impmc.sorbonne-universite.fr/en/index.html">Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC)</a></h3>
 <p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum national d'Histoire naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 

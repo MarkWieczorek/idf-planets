@@ -22,7 +22,7 @@ window.getSelection().removeAllRanges();
 }
 </script>
 
-<iframe width="1000" height="800" src="https://framagenda.org/apps/calendar/embed/BJkXk4dmeB3P89Lz"></iframe>
+<iframe width="900" height="800" src="https://framagenda.org/apps/calendar/embed/BJkXk4dmeB3P89Lz"></iframe>
 
 <p></p>
 *You can subscribe to this calendar by using this url in your calendar application:*
