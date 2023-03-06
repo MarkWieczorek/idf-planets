@@ -98,8 +98,8 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
-<a href="#hide-imcce-pegase" class="hide-more" id="hide-imcce-pegase" style="border-bottom: none;">&#10133; Planetology environments from ground-based astrometry and space exploration</a>
-<a href="#show-imcce-pegase" class="show-more" id="show-imcce-pegase">&#10134; Planetology environments from ground-based astrometry and space exploration</a>
+<a href="#hide-imcce-pegase" class="hide-more" id="hide-imcce-pegase" style="border-bottom: none;">&#10133; Planetology Environments from Ground-based Astrometry and Space Exploration (PEGASE)</a>
+<a href="#show-imcce-pegase" class="show-more" id="show-imcce-pegase">&#10134; Planetology Environments from Ground-based Astrometry and Space Exploration (PEGASE)</a>
 
 <div class="more">
 <div class="box more-box">
