@@ -106,7 +106,7 @@ IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 
 <p><a href="https://www.imcce.fr/recherche/equipes/pegase/">Group website</a></p>
 
 <p><b>Research themes</b><br />
-Dynamical planetology, planet and satellite formation, tides, co-evolution of moons and planet spin axes, asteroids, the Yarkovsky effect, planetary rings, natural satellites observations, comets and trans-Neptunian objects, meteoroids and meteors, history of astronomy.
+Orbital dynamics, planet and satellite formation, tides, co-evolution of moons and planet spin axes, asteroids, the Yarkovsky effect, planetary rings, natural satellites observations, comets and trans-Neptunian objects, meteoroids and meteors, history of astronomy.
 </p>
 
 <p><b>Planetary science research staff</b><br />
