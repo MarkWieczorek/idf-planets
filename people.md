@@ -13,6 +13,7 @@ order: 3
 
 | Last name | First name | Laboratory | Research interests | website |
 | --------- | ---------- | ---------- | ------------------ | ------- |
+| Charnoz     | Sébastien    | IPGP       | Planet formation, satellite formation, small bodies, exoplanet atmospheres |  |
 | Lucas     | Antoine    | IPGP       | I study avalanches, dunes and rivers across the Solar System. | <a href="http://dralucas.geophysx.edu.eu.org"><i class="fa fa-external-link"></i></a> |
 | Rodriguez  | Sebastien | IPGP | Planetary atmospheres and surfaces, climatology, landscape formation, infrared and microwave remote sensing. | |
 | Schmidt | Frédéric | GEOPS | Mars, icy moons, Europa, ices and volatiles, geomorphology, remote sensing, hyperspectral imaging, AI. | <a href="http://planeto.geol.u-psud.fr/spip.php?article83"><i class="fa fa-external-link"></i></a> |
