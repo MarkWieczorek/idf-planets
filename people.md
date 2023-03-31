@@ -22,8 +22,9 @@ order: 3
 
 ### Postdocs
 
-| Cattani  | Fanny | IPGP | Noble gas, Geochronology, Instrumentation & Experimental development. | |
 | Bonnefoy | Léa | LERMA | Icy moons, Titan, radar, microwave radiometry. | |
+| Cattani  | Fanny | IPGP | Noble gas, Geochronology, Instrumentation & Experimental development. | |
+| Poggiali  | Giovanni | LESIA |  Small bodies, Mars, laboratory analogs, IR-spectroscopy, space missions, astrobiology. | <a href="https://www.giovannipoggiali.eu/"><i class="fa fa-external-link"></i></a> |
 
 ### Ph.D. students
 

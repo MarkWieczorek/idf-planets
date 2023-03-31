@@ -14,6 +14,24 @@ order: 5
 
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/insight-core.jpeg %}" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>2023 AAAS Newcomb Cleveland prize recipient</h3>
+				</header>
+				<p><b>March 2, 2023</b><br />
+				The paper "Seismic detection of the Martian core" (2021) was awarded the <a href="https://www.aaas.org/awards/newcomb-cleveland-prize/about">2023 AAAS Newcomb Cleveland prize</a> for the best paper published in the journal Science. Lead by Simon Stähler and several members of the InSight science team, this paper provides the most precise estimate for the size of the Martian core. The InSight seismometer was developed by a consortium lead by CNES and the Institut de Physique du Globe de Paris.</p>
+				<ul class="actions">
+				<li><a href="https://www.youtube.com/watch?v=fujoKTyuXuY" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/2023-CX1.jpg %}" alt="" />
 		</a>
 		<div class="content">
