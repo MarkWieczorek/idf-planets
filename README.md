@@ -9,7 +9,7 @@ We are a community of planetary scientists that works in Paris and the surroundi
 
 ## Where to find us
 * [Website](https://idf-planets.github.io/website/)
-* [Mastodon](https://astrodon.social/@IDF_Planets)
+* [Mastodon](https://solarsystem.social/@IDF_Planets)
 * [Keybase](https://keybase.io/team/idf_planets)
 * [Matrix](https://matrix.to/#/#IDF-Planets:matrix.org)
 
