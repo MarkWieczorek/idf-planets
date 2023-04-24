@@ -22,7 +22,7 @@ order: 5
 				<h3>Jupiter Icy Moons Explorer (JUICE) launched</h3>
 			</header>
 			<p><b>April 24, 2023</b><br />
-			The Jupiter Icy Moons Explorer (JUICE) launched friday April 14 from the Guiana Space Center, and one of the instruments onboard was #MAGIS (Moons And Jupiter Imaging Spectrometer) that was developed by the Institut d'Astrophysique Spatiale (IAS). This image shows a picture of the Earth in the background and the MAGIS instrument in the foreground taken by the spacecraft's surveillance camera. The instrument will be turned on in just over a month, and will arrive at Jupiter in 2031.</p>
+			The Jupiter Icy Moons Explorer (JUICE) launched friday April 14 from the Guiana Space Center, and one of the instruments onboard was #MAJIS (Moons And Jupiter Imaging Spectrometer) that was developed by the Institut d'Astrophysique Spatiale (IAS). This image shows a picture of the Earth in the background and the MAJIS instrument in the foreground taken by the spacecraft's surveillance camera. The instrument will be turned on in just over a month, and will arrive at Jupiter in 2031.</p>
 			<ul class="actions">
 			<li><a href="https://www.ias.u-psud.fr/en/content/majis-flying%C2%A0" class="button">Learn more</a></li>
 			</ul>
