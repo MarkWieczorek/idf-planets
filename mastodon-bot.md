@@ -9,7 +9,7 @@ show-tile: true
 order: 9
 ---
 
-If you are a planetary scientist working in Ile-de-France, you can have your Mastodon posts automatically boosted by our account, or post directly using our account. We use a bot to do this, and in order for the bot to recognize you, it is necessary for the <a href="https://solarsystem.social/@IDF_Planets">@IDF_Planets</a> account to follow you. Just send us a message and we will be happy to add you to the list.
+If you are a planetary scientist working in Ile-de-France, you can have your Mastodon posts automatically boosted by our account, or post directly using our account. We use a bot to do this, and in order for the bot to recognize you, it is necessary for the <a href="https://solarsystem.social/@IDF_Planets">@IDF_Planets</a> account to follow you. Just send us a message and we will be happy to add you to the list. If you don't have a Mastodon account, please sign up for a free account on the planetary science community instance <a href="https://solarsystem.social/">solarsystem.social</a> !
 
 ### Automatically boost a post
 If you would like to post something on Mastodon using your own account, and have @IDF_Planets automatically boost this post, just include

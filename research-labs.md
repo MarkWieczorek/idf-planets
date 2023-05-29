@@ -8,6 +8,9 @@ nav-menu: true
 show-tile: true
 order: 2
 ---
+
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&fullscreenControl=true&measureControl=false"></iframe><p style="text-align: right; font-size: 70% "><a href="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764" rel="external noreferrer noopener" target="_blank">Click for full screen</a></p>
+
 <h3 class="mb-0"><a href="https://irfu.cea.fr/dap/index.php">Astrophysique Instrumentation Modélisation (AIM)</a></h3>
 <p><a href="https://irfu.cea.fr/">Institut de recherche sur les lois fondamentales de l'Univers</a>, <a href="https://www.cea.fr/">CEA</a></p>
 
@@ -32,7 +35,7 @@ Jacques-Marie Bardintzeff, Sylvain Bouley, Benjamin Bultel, François Costard, L
 
 <p>
 <b>Location</b><br />
-Bâtiments 504/509, Rue du Belvédère, 91400 Orsay<br />
+GEOPS - Université Paris-Saclay, Bâtiments 504/509, Rue du Belvédère, 91400 Orsay<br />
 <a href="https://www.openstreetmap.org/?mlat=48.70639&mlon=2.17913#map=19/48.70639/2.17913" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/qmFSSUmdd3Lynbnh8" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -61,7 +64,7 @@ Alice Aléon, Donia Baklouti, Rosario Brunetto, Zélia Dionnet, Zahia Djouadi, C
 
 <p>
 <b>Location</b><br />
-IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 Bures-sur-Yvette<br />
+IAS - Université Paris-Saclay, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 Bures-sur-Yvette<br />
 <a href="https://www.openstreetmap.org/?mlat=48.69887&mlon=2.17480#map=19/48.69887/2.17480" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/1Lrp362nPmNtp5SR7" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -86,7 +89,7 @@ Jean-Pierre Bibring, John Carter, Yves Langevin, Cateline Lantz, Marc Ollivier, 
 
 <p>
 <b>Location</b><br />
-IAS, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 Bures-sur-Yvette<br />
+IAS - Université Paris-Saclay, Bâtiment 121, Université Paris-Saclay, Rue Jean-Dominique Cassini, 91440 Bures-sur-Yvette<br />
 <a href="https://www.openstreetmap.org/?mlat=48.69887&mlon=2.17480#map=19/48.69887/2.17480" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/1Lrp362nPmNtp5SR7" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -115,7 +118,7 @@ Jean-Eudes Arlot, Kevin Baillié, Josselin Desmars, Marc Fouchard, Daniel Hestro
 
 <p>
 <b>Location</b><br />
-IMCCE, Observatoire de Paris, 77 avenue Denfert-Rochereau, 75014 Paris<br />
+IMCCE - Observatoire de Paris, 77 avenue Denfert-Rochereau, 75014 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.83592&mlon=2.33420#map=19/48.83592/2.33420" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/y2h3H6bZP6V9ad5CA" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -125,7 +128,7 @@ IMCCE, Observatoire de Paris, 77 avenue Denfert-Rochereau, 75014 Paris<br />
 
 
 <h3 class="mb-0"><a href="http://impmc.sorbonne-universite.fr/en/index.html">Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC)</a></h3>
-<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum national d'Histoire naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum National d'Histoire Naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-impmc-cosmo" class="hide-more" id="hide-impmc-cosmo" style="border-bottom: none;">&#10133; Cosmochemistry</a>
@@ -145,7 +148,7 @@ Jérôme Aléon, Jean Duprat, Matthieu Gounelle, Emmanuel Jacquet, Smaïl Mostef
 
 <p>
 <b>Location</b><br />
-61 rue Buffon, 75005 Paris<br />
+IMPMC - Muséum National d'Histoire Naturelle, Campus Buffon, 61 rue Buffon, 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84133&mlon=2.35773#map=18/48.84133/2.35773" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/JciQUyugJnQXHMEr9" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -171,8 +174,7 @@ Daniele Antonangeli, Silvia Boccato, Eglantine Boulard, Hélène Bureau, Frederi
 
 <p>
 <b>Location</b><br />
-4 place Jussieu, 75005, Paris<br />
-Tower 23, 4th floor, Corridor 22-23<br />
+IMPMC - Sorbonne Université, 4 place Jussieu, Tower 23 (4th floor, Corridor 22-23), 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/hnx3Mw1XmoAxtz9x5" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -197,7 +199,7 @@ Sylvain Bernard, Olivier Beyssac, Sylvain Pont, Laurent Remusat, Pierre Sans-Jof
 
 <p>
 <b>Location</b><br />
-61 rue Buffon, 75005 Paris<br />
+IMPMC - Muséum National d'Histoire Naturelle, Campus Buffon, 61 rue Buffon, 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84133&mlon=2.35773#map=18/48.84133/2.35773" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/JciQUyugJnQXHMEr9" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -225,7 +227,7 @@ Guillaume Avice, James Badro, Razvan Caracas, Sébastien Charnoz, Marc Chaussido
 </p>
 
 <p><b>Location</b><br />
-1 rue Jussieu, 75005, Paris<br />
+IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84478&amp;mlon=2.35612#map=19/48.84478/2.35612" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/Rw3sAustbgmATBUGA" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -248,7 +250,7 @@ Julien Aubert, Edouard Kaminski, Maylis Landeau, Clément Narteau.
 </p>
 
 <p><b>Location</b><br />
-1 rue Jussieu, 75005, Paris<br />
+IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84478&amp;mlon=2.35612#map=19/48.84478/2.35612" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/Rw3sAustbgmATBUGA" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -272,7 +274,7 @@ Cécile Ferrari, Stéphane Jacquemoud, Taichi Kawamura, Philippe Lognonné, Anto
 
 <p>
 <b>Location</b><br />
-Lamarck A (6th and 7th floors), 50 Rue Alice Domon et Léonie Duquet, 75013, Paris<br />
+IPGP - Université Paris Cité, Campus des Grands Moulins, Lamarck A (6th and 7th floors), 50 Rue Alice Domon et Léonie Duquet, 75013, Paris<br />
 <a href="https://www.openstreetmap.org/export/embed.html?bbox=2.3775959014892583%2C48.8262347017078%2C2.3828396201133732%2C48.82843309758655&amp;layer=mapnik&amp;marker=48.827333400024955%2C2.3802188999999316" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/w2iyHH1SLmNzBXer7" style="font-size: 80%;">[Google maps]</a></p>
 
 <p>
@@ -299,7 +301,7 @@ Nobuaki Fuji, Eléonore Stutzmann.
 </p>
 
 <p><b>Location</b><br />
-1 rue Jussieu, 75005, Paris<br />
+IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84478&amp;mlon=2.35612#map=19/48.84478/2.35612" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/Rw3sAustbgmATBUGA" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -313,11 +315,11 @@ Université de Versailles Saint-Quentin-en-Yvelines</a>, <a href="https://www.cn
 
 <div class="research-group">
 <a href="#hide-latmos-helios" class="hide-more" id="hide-latmos-helios" style="border-bottom: none;">&#10133; Exosphere and Heliosphere</a>
-<a href="#show-latmos-helios" class="show-more" id="show-latmos-helios">&#10134; Exosphere and Heliosphere</a>
+<a href="#show-latmos-helios" class="show-more" id="show-latmos-helios">&#10134; Exosphere - Heliosphere</a>
 
 <div class="more">
 <div class="box more-box">
-<p><a href="http://www.latmos.ipsl.fr/index.php/en/activites-de-recherche/helios">Group website</a></p>
+<p><a href="http://www.latmos.ipsl.fr/index.php/fr/departements-scientifiques/helios">Group website</a></p>
 
 <p><b>Research themes</b><br />
 Ionospheres, magnetospheres, exospheres, interactions with particles and fields, remote sensing, instrumentation and techniques, plasmas and magnetohydrodynamic instabilities.
@@ -329,12 +331,12 @@ Jean-Yves Chaufray, Patrick Galopeau, Dimitra Koutroumpa, François Leblanc, Ron
 <p>
 <b>Locations</b><br />
 <u>Site Guyancourt</u><br />
-OVSQ, 11 boulevard D’Alembert, 78280 Guyancourt<br />
+LATMOS - Université de Versailles Saint-Quentin-en-Yvelines, 11 boulevard D’Alembert, 78280 Guyancourt<br />
 <a href="https://www.openstreetmap.org/?mlat=48.77799&mlon=2.04843#map=19/48.77799/2.04843" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/LT6vEEFyvH4u56JfA" style="font-size: 80%;">[Google maps]</a></p>
 
 <p>
 <u>Site Paris-Jussieu</u><br />
-Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
+LATMOS - Sorbonne Université, Towers 45-46 (3rd and 4th floors), 4 place Jussieu, 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/txkbykPcZNLT3cyp8" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -347,7 +349,7 @@ Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
 
 <div class="more">
 <div class="box more-box">
-<p><a href="http://www.latmos.ipsl.fr/index.php/en/activites-de-recherche/planeto">Group website</a></p>
+<p><a href="http://www.latmos.ipsl.fr/index.php/fr/departements-scientifiques/planeto">Group website</a></p>
 
 <p><b>Research themes</b><br />
 Planetary atmospheres, origin of life, impact cratering, comets, remote sensing, surface materials and properties, instrumentation and techniques.
@@ -360,12 +362,12 @@ Nathalie Carrasco, Valérie Ciarletti, Caroline Freissinet, Thomas Gautier, Fran
 <p>
 <b>Locations</b><br />
 <u>Site Guyancourt</u><br />
-OVSQ, 11 boulevard D’Alembert, 78280 Guyancourt<br />
+LATMOS - Université de Versailles Saint-Quentin-en-Yvelines, 11 boulevard D’Alembert, 78280 Guyancourt<br />
 <a href="https://www.openstreetmap.org/?mlat=48.77799&mlon=2.04843#map=19/48.77799/2.04843" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/LT6vEEFyvH4u56JfA" style="font-size: 80%;">[Google maps]</a></p>
 
 <p>
 <u>Site Paris-Jussieu</u><br />
-Sorbonne Université, 4 place Jussieu, 75005 Paris<br />
+LATMOS - Sorbonne Université, Towers 45-46 (3rd and 4th floors), 4 place Jussieu, 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84614&mlon=2.35565#map=19/48.84614/2.35565" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/txkbykPcZNLT3cyp8" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -394,7 +396,7 @@ Antonella Barucci, Tanguy Bertrand, Bruno Bézard, Nicolas Biver, Dominique Bock
 
 <p>
 <b>Location</b><br />
-Bâtiments 16-18, Observatoire de Paris, 5 Place Jules Janssen, 92190 Meudon<br />
+LESIA - Observatoire de Paris, Bâtiments 16-18, 5 Place Jules Janssen, 92190 Meudon<br />
 <a href="https://www.openstreetmap.org/?mlat=48.80456&mlon=2.22685#map=19/48.80456/2.22685&layers=N" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/q34JNWvuynRLTwwR7" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -423,7 +425,7 @@ François Forget, Sandrine Guerlet, Sebastien Lebonnois, Ehouarn Millour, Aymeri
 
 <p>
 <b>Location</b><br />
-Sorbonne Université, Tour 45, 3eme etage, 4 place Jussieu, 75005 Paris<br />
+LMD - Sorbonne Université, Tower 45 (3rd floor), 4 place Jussieu, 75005 Paris<br />
 <a href="https://www.openstreetmap.org/?mlat=48.84646&mlon=2.35609#map=19/48.84646/2.35609" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://www.google.fr/maps/search/48.846544,+2.355982" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
@@ -453,7 +455,7 @@ Clara Azémard, Yves Bénilan, Hervé Cottin, Nicolas Fray, Marie-Claire Gazeau,
 
 <p>
 <b>Location</b><br />
-Maison des sciences de l’environnement, 5 rue Pasteur Vallery Radot, 94000 Créteil<br />
+LISA - Université Paris-Est Créteil, Maison des sciences de l’environnement, 5 rue Pasteur Vallery Radot, 94000 Créteil<br />
 <a href="https://www.openstreetmap.org/?mlat=48.78903&mlon=2.44228#map=19/48.78903/2.44228&layers=N" style="font-size: 80%;">[Open Streetmap]</a> <a href="https://goo.gl/maps/b3EGENzuEwBZEzi19" style="font-size: 80%;">[Google maps]</a></p>
 
 </div>
