@@ -9,7 +9,7 @@ show-tile: true
 order: 2
 ---
 
-<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&fullscreenControl=true&measureControl=false"></iframe><p style="text-align: right; font-size: 70% "><a href="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764" rel="external noreferrer noopener" target="_blank">Click for full screen</a></p>
+<iframe width="100%" height="550px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&fullscreenControl=true&measureControl=false"></iframe><p style="text-align: right; font-size: 70% "><a href="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764" rel="external noreferrer noopener" target="_blank">Click for full screen</a></p>
 
 <h3 class="mb-0"><a href="https://irfu.cea.fr/dap/index.php">Astrophysique Instrumentation Modélisation (AIM)</a></h3>
 <p><a href="https://irfu.cea.fr/">Institut de recherche sur les lois fondamentales de l'Univers</a>, <a href="https://www.cea.fr/">CEA</a></p>
