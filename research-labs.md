@@ -11,11 +11,18 @@ order: 2
 
 <iframe width="100%" height="550px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&fullscreenControl=true&measureControl=false"></iframe><p style="text-align: right; font-size: 70% "><a href="//umap.openstreetmap.fr/en/map/ile-de-france-planets_920764" rel="external noreferrer noopener" target="_blank">Click for full screen</a></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/aim.png" width="220px"></p>
 <h3 class="mb-0"><a href="https://irfu.cea.fr/dap/index.php">Astrophysique Instrumentation Modélisation (AIM)</a></h3>
 <p><a href="https://irfu.cea.fr/">Institut de recherche sur les lois fondamentales de l'Univers</a>, <a href="https://www.cea.fr/">CEA</a></p>
 
+
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/Logo-GEOPS-new-lr.png" width="300px"></p>
 <h3 class="mb-0"><a href="http://geops.geol.u-psud.fr/?lang=fr">Géosciences Paris-Saclay (GEOPS)</a></h3>
-<p><a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-geops" class="hide-more" id="hide-geops" style="border-bottom: none;">&#10133; Geomorphology and Geochronology of Planetary and Volcanic Surfaces</a>
@@ -41,10 +48,12 @@ GEOPS - Université Paris-Saclay, Bâtiments 504/509, Rue du Belvédère, 91400 
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/IAS_opcionnel-original.webp" width="260px"></p>
 <h3 class="mb-0"><a href="https://www.ias.u-psud.fr/">Institut d'Astrophysique Spatiale (IAS)</a></h3>
-<p><a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-ias-ao" class="hide-more" id="hide-ias-ao" style="border-bottom: none;">&#10133; Astrochemistry and Origins</a>
@@ -95,10 +104,12 @@ IAS - Université Paris-Saclay, Bâtiment 121, Université Paris-Saclay, Rue Jea
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/logo_IMCCE.png" width="300px"></p>
 <h3 class="mb-0"><a href="https://www.imcce.fr/">Institut de Mécanique Céleste et de Calcul des Ephémérides (IMCCE)</a></h3>
-<p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-imcce-pegase" class="hide-more" id="hide-imcce-pegase" style="border-bottom: none;">&#10133; Planetology Environments from Ground-based Astrometry and Space Exploration (PEGASE)</a>
@@ -124,11 +135,12 @@ IMCCE - Observatoire de Paris, 77 avenue Denfert-Rochereau, 75014 Paris<br />
 </div>
 </div>
 </div>
-<p></p>
 
 
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/IMPMC_logo_550x310.png" width="260px"></p>
 <h3 class="mb-0"><a href="http://impmc.sorbonne-universite.fr/en/index.html">Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie (IMPMC)</a></h3>
-<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum National d'Histoire Naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.mnhn.fr/fr">Muséum National d'Histoire Naturelle</a>, <a href="https://www.ird.fr/">L'Institut de recherche pour le développement</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-impmc-cosmo" class="hide-more" id="hide-impmc-cosmo" style="border-bottom: none;">&#10133; Cosmochemistry</a>
@@ -181,6 +193,7 @@ IMPMC - Sorbonne Université, 4 place Jussieu, Tower 23 (4th floor, Corridor 22-
 </div>
 </div>
 
+
 <div class="research-group">
 <a href="#hide-impmc-rocks" class="hide-more" id="hide-impmc-rocks" style="border-bottom: none;">&#10133; Research On Carbon-rich Key Samples</a>
 <a href="#show-impmc-rocks" class="show-more" id="show-impmc-rocks">&#10134; Research On Carbon-rich Key Samples</a>
@@ -205,10 +218,12 @@ IMPMC - Muséum National d'Histoire Naturelle, Campus Buffon, 61 rue Buffon, 750
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/IPGP_UP_mix_Blanc.png" width="380px"></p>
 <h3 class="mb-0"><a href="https://www.ipgp.fr/">Institut de Physique du Globe de Paris (IPGP)</a></h3>
-<p><a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a>
+<p style="margin-bottom: 15pt;"><a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a>
 </p>
 
 <div class="research-group">
@@ -234,6 +249,7 @@ IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 </div>
 </div>
 
+
 <div class="research-group">
 <a href="#hide-gfd" class="hide-more" id="hide-gfd" style="border-bottom: none;">&#10133; Geological Fluid Dynamics</a>
 <a href="#show-gfd" class="show-more" id="show-gfd">&#10134; Geological Fluid Dynamics</a>
@@ -256,6 +272,7 @@ IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 </div>
 </div>
 </div>
+
 
 <div class="research-group">
 <a href="#hide-pss" class="hide-more" id="hide-pss" style="border-bottom: none;">&#10133; Planetary and Space Sciences</a>
@@ -285,6 +302,7 @@ Note: There is no reception and a badge is required to enter the building. Pleas
 </div>
 </div>
 
+
 <div class="research-group">
 <a href="#hide-seis" class="hide-more" id="hide-seis" style="border-bottom: none;">&#10133; Seismology</a>
 <a href="#show-seis" class="show-more" id="show-seis">&#10134; Seismology</a>
@@ -307,10 +325,12 @@ IPGP - Université Paris Cité, 1 rue Jussieu, 75005, Paris<br />
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/logo_labo_latmos.png" width="250px"></p>
 <h3 class="mb-0"><a href="https://www.latmos.ipsl.fr">Laboratoire Atmosphères, Observations Spatiales (LATMOS)</a></h3>
-<p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="">
+<p style="margin-bottom: 15pt;"><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="">
 Université de Versailles Saint-Quentin-en-Yvelines</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
@@ -343,6 +363,7 @@ LATMOS - Sorbonne Université, Towers 45-46 (3rd and 4th floors), 4 place Jussie
 </div>
 </div>
 
+
 <div class="research-group">
 <a href="#hide-latmos-planeto" class="hide-more" id="hide-latmos-planeto" style="border-bottom: none;">&#10133; Planetology and Solar System</a>
 <a href="#show-latmos-planeto" class="show-more" id="show-latmos-planeto">&#10134; Planetology and Solar System</a>
@@ -373,10 +394,12 @@ LATMOS - Sorbonne Université, Towers 45-46 (3rd and 4th floors), 4 place Jussie
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/LESIA.png" width="200px"></p>
 <h3 class="mb-0"><a href="https://lesia.obspm.fr/">Laboratoire d'Etudes Spatiales et d'Instrumentation en Astrophysique (LESIA)</a></h3>
-<p><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.observatoiredeparis.psl.eu/?lang=fr">Observatoire de Paris</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-lesia-planetologie" class="hide-more" id="hide-lesia-planetologie" style="border-bottom: none;">&#10133; Planetary Science Pole</a>
@@ -402,10 +425,12 @@ LESIA - Observatoire de Paris, Bâtiments 16-18, 5 Place Jules Janssen, 92190 Me
 </div>
 </div>
 </div>
-<p></p>
 
+
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/logo_lmd_1.png" width="220px"></p>
 <h3 class="mb-0"><a href="https://www.lmd.ipsl.fr/en/home-2/">Laboratoire de Météorologie Dynamique (LMD)</a></h3>
-<p><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>, <a href="https://www.polytechnique.edu/">Institut Polytechnique de Paris</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.sorbonne-universite.fr">Sorbonne Université</a>, <a href="https://www.psl.eu/">Université Paris Sciences & Lettres</a>, <a href="https://www.ens.psl.eu/">Ecole Normale Supérieure</a>, <a href="https://www.polytechnique.edu/">Institut Polytechnique de Paris</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-lmd" class="hide-more" id="hide-lmd" style="border-bottom: none;">&#10133; Planetary Atmospheres</a>
@@ -431,11 +456,12 @@ LMD - Sorbonne Université, Tower 45 (3rd floor), 4 place Jussieu, 75005 Paris<b
 </div>
 </div>
 </div>
-<p></p>
 
 
+---
+<p style="margin-bottom: 12pt;"><img src="assets/images/logos/lisa-logo-300x138.png" width="260px"></p>
 <h3 class="mb-0"><a href="http://www.lisa.u-pec.fr/en">Laboratoire Interuniversitaire des Systèmes Atmosphériques (LISA)</a></h3>
-<p><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.u-pec.fr/">Université Paris-Est Créteil</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
+<p style="margin-bottom: 15pt;"><a href="https://www.ipsl.fr/">Institut Pierre-Simon Laplace</a>, <a href="https://u-paris.fr/en/">Université Paris Cité</a>, <a href="https://www.u-pec.fr/">Université Paris-Est Créteil</a>, <a href="https://www.cnrs.fr/fr">CNRS</a></p>
 
 <div class="research-group">
 <a href="#hide-lisa" class="hide-more" id="hide-lisa" style="border-bottom: none;">&#10133; Astrobiology and Astrochemistry</a>
@@ -461,4 +487,4 @@ LISA - Université Paris-Est Créteil, Maison des sciences de l’environnement,
 </div>
 </div>
 </div>
-<p></p>
+<br />
