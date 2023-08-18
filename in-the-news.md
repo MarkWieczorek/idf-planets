@@ -12,23 +12,41 @@ order: 5
 
 <section class="spotlights">
 
-<section>
-	<a class="image">
-		<img src="{% link assets/images/MAGIS.png %}" alt="" />
-	</a>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
-				<h3>Jupiter Icy Moons Explorer (JUICE) launched</h3>
-			</header>
-			<p><b>April 24, 2023</b><br />
-			The Jupiter Icy Moons Explorer (JUICE) launched friday April 14 from the Guiana Space Center, and one of the instruments onboard was MAJIS (Moons And Jupiter Imaging Spectrometer) that was developed by the Institut d'Astrophysique Spatiale (IAS). This image shows a picture of the Earth in the background and the MAJIS instrument in the foreground taken by the spacecraft's surveillance camera. The instrument will be turned on in just over a month, and will arrive at Jupiter in 2031.</p>
-			<ul class="actions">
-			<li><a href="https://www.ias.u-psud.fr/en/content/majis-flying%C2%A0" class="button">Learn more</a></li>
-			</ul>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/echantillon-lune-museum.jpeg %}" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chang'e 5 samples of the Moon arrive in France</h3>
+				</header>
+				<p><b>June 15, 2023</b><br />
+				1.5 grams of lunar rock obtained by the Chang'e 5 sample return mission were given to the French scientific community during a visit of the French president in China. These samples were collected on the lunar surface in the region of Oceanus Procellarum, where some of the youngest lava flows erupted about 2 billion years ago. The samples will be curated by the national museum of natural history in Paris (Muséum national d'Histoire naturelle), which will be the site of a new national center for extraterrestrial materials.</p>
+				<ul class="actions">
+				<li><a href="https://www.mnhn.fr/fr/communique-de-presse/le-museum-enrichit-ses-collections-d-echantillons-lunaires-issus-de-la-mission" class="button">Learn more</a></li>
+				</ul>
+			</div>
 		</div>
-	</div>
-</section>
+	</section>
+
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/MAGIS.png %}" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jupiter Icy Moons Explorer (JUICE) launched</h3>
+				</header>
+				<p><b>April 24, 2023</b><br />
+				The Jupiter Icy Moons Explorer (JUICE) launched friday April 14 from the Guiana Space Center, and one of the instruments onboard was MAJIS (Moons And Jupiter Imaging Spectrometer) that was developed by the Institut d'Astrophysique Spatiale (IAS). This image shows a picture of the Earth in the background and the MAJIS instrument in the foreground taken by the spacecraft's surveillance camera. The instrument will be turned on in just over a month, and will arrive at Jupiter in 2031.</p>
+				<ul class="actions">
+				<li><a href="https://www.ias.u-psud.fr/en/content/majis-flying%C2%A0" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 	<section>
 		<a class="image">
