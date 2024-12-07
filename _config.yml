@@ -18,7 +18,7 @@ tiles-count: 10
 # You need to restart jekyll for changes to have an effect
 socials:
   Mastodon: https://solarsystem.social/@IDF_Planets
-  Matrix: https://matrix.to/#/#IDF-Planets:matrix.org
+  Bluesky: https://bsky.app/profile/idf-planets.solarsystem.social
   GitHub: https://github.com/idf-planets
   Email: mailto:&#109;&#97;&#114;&#107;&#46;&#119;&#105;&#101;&#99;&#122;&#111;&#114;&#101;&#107;&#64;&#105;&#112;&#103;&#112;&#46;&#102;&#114;
   GitLab:
