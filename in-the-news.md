@@ -14,6 +14,24 @@ order: 5
 
 	<section>
 		<a class="image">
+			<img src="{% link assets/images/Morbidelli-2024-2025-Visuel.jpg %}" alt="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lecture series at the Collège de France by Alessandro Morbidelli</h3>
+				</header>
+				<p><b>October 23, 2024</b><br />
+				The Collège de France will host a series of talks about the "Origin and evolution of the Solar System" by Alessandro Morbidelli (Observatoire de la Côte d'Azur, Collège de France). Eight talks will be given between October 23 and December 11, and will include three additional invited seminars.</p>
+				<ul class="actions">
+				<li><a href="https://www.college-de-france.fr/fr/agenda/cours/origine-et-evolution-du-systeme-solaire-externe" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a class="image">
 			<img src="{% link assets/images/echantillon-lune-museum.jpeg %}" alt="" />
 		</a>
 		<div class="content">
