@@ -22,3 +22,4 @@ Ile-de-France Planets is on Mastodon and Bluesky! We post about planetary scienc
  ## Mattermost
 
  If you are part of a community that is using Slack, please consider migrating to the Solar System Social Mattermost server. Mattermost is a free and open source team collaboration platform that is nearly identical to Slack. It doesn't suffer from any of the restrictions in the free Slack plan, and it is physically hosted using servers in France. Solar System Social will create a team for any early-career planetary science group or any planetary science community-led project. They will also create teams for other research projects on a case-by-case basis. If this interests you, please contact us on our social media accounts or by email.
+
